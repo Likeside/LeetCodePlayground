@@ -1,0 +1,6 @@
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/bin/Debug/LeetCodePlayground.exe
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/bin/Debug/LeetCodePlayground.pdb
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/obj/Debug/LeetCodePlayground.csprojAssemblyReference.cache
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/obj/Debug/LeetCodePlayground.csproj.CoreCompileInputs.cache
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/obj/Debug/LeetCodePlayground.exe
+/home/likeside/Desktop/C# Projects/Asynchronous Programming Tutorial/LeetCodePlayground/LeetCodePlayground/obj/Debug/LeetCodePlayground.pdb
